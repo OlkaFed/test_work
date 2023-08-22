@@ -110,7 +110,31 @@ mkdir название папки
 
 ## Добавление изображений 
 
+Чтобы добавить изображения, можно воспользоваться следующими конструкциями: 
 
+Картинка без `alt` текста
+
+![](https://catherineasquithgallery.com/uploads/posts/2021-12/1639776669_140-catherineasquithgallery-com-p-kartinki-anime-na-fon-telefona-rozovie-211.jpg)
+
+Картинка с альтом и тайтлом:
+
+![Alt text](https://avatars.mds.yandex.net/i?id=ca396df9e1942a8571b03d3ff33b31e59c1083c4-10125837-images-thumbs&n=13 "Можно задать title")
+
+Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
+
+Картинки «сноски»:
+
+![Картинка][image1]
+![Картинка][image2]
+![Картинка][image3]
+
+[image1]: //placehold.it/250x100
+[image2]: //placehold.it/200x100
+[image3]: //placehold.it/150x100
+
+Картинки-ссылки:
+
+[![Alt text](https://avatars.mds.yandex.net/i?id=4a8ab91a65978a8e5a1ab1a36cf1c80f2eb07421-9152533-images-thumbs&n=13)](https://shikimori.me/animes?ysclid=llm479swip788338996)
 
 
 ## Добавление исходного кода 
