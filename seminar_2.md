@@ -114,9 +114,6 @@ mkdir название папки
 
 ## Списки
 
-<<<<<<< HEAD
-Чтобы добавить списки нужно: 
-=======
 Для разметки неупорядоченных списков можно использовать или `*`, или `-`, или `+`:
 
 - элемент 1
@@ -156,7 +153,6 @@ mkdir название папки
 * Три абзац. Ea, quis, alias nobis porro quos laborum minus sed fuga odio dolore natus quas cum enim necessitatibus magni provident non saepe sequi?
 
     Четыре абзац (Четыре пробела в начале или один tab).
->>>>>>> lists
 
 
 ## Цитаты 
