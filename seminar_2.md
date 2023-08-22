@@ -205,7 +205,16 @@ id sem consectetuer libero luctus adipiscing.
 
 ## Ссылки 
 
+Это встроенная [ссылка с title элементом](https://ya.ru/ "Я ссылка"). Это — [без title](https://www.lego.com/).
 
+А вот [пример][1] [нескольких][2] [ссылок][id] с разметкой как у сносок. Прокатит и [короткая запись][] без указания id.
+
+[1]: http://ya.ru/ "Optional Title Here"
+[2]: https://www.lego.com/
+[id]: https://vk.com/ (Optional Title Here)
+[короткая запись]: https://ok.ru/
+
+Вынос длинных урлов из предложения способствует сохранению читабельности исходника. Сноски можно располагать в любом месте документа.
 
 
 ## Emphasis 
